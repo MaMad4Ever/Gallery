@@ -5,7 +5,7 @@
 
 # 🎴 Gallery
 
-Add a Gallery with a Html and Css Custom Switch.
+Add a Gallery with a Html and Css.
 
 
 ## Browser Support
